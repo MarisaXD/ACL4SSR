@@ -18,6 +18,7 @@ ruleset=GoogleFCM,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash
 ruleset=Global DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
 ruleset=Global DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
 ruleset=Microsoft Bing,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Bing.list
+ruleset=Microsoft Bing,https://raw.githubusercontent.com/MarisaXD/ACL4SSR/master/Clash/Ruleset/Copilot.list
 ruleset=OneDrive,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/OneDrive.list
 ruleset=Microsoft Service,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Microsoft.list
 ruleset=Apple Service,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list
